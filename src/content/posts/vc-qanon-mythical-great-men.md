@@ -12,4 +12,4 @@ One thing I've noticed since 2016 is the slow, painful movement of tech oligarch
 
 > But I've spent decades in this industry, often knowing the executives and investors long before they came to wield so much power, and... they're just a bunch of dudes. They're just as prone to becoming swept up in stupid conspiracized thinking as, well, everyone else in their demographic seems to have been.
 
-The quicker we understand this, the easier it will become to move away from the deifying petty alt-right billionaires and building communities on the free and open web.
+The quicker we understand this, the easier it will become to move away from the deifying petty, alt-right billionaires and building communities on the free and open web.

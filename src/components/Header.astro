@@ -1,8 +1,10 @@
 ---
+import ThemeToggle from "./ThemeToggle.astro";
+
 const links: { name: string; href: string }[] = [
   { name: "reading notes", href: "https://readings.tiff.ws/" },
   {
-    name: "other projects",
+    name: "projects",
     href: "https://gist.github.com/twhite96/0c90f6bdb5788ab355c921733bda20ab",
   },
   { name: "about", href: "https://about.tiff.engineer" },
@@ -36,6 +38,8 @@ const links: { name: string; href: string }[] = [
         </a>
       ))
     }
+
+    <ThemeToggle />
   </nav>
 </header>
 
